@@ -1,4 +1,4 @@
-/*
+/* OH MY... LINUX IS SO FUCKING SEXY SEXY.
  *	console.c
  *
  * This module implements the console io functions
